@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spaceRealms.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Test Server/spaceRealms.jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Test Server/spaceRealms.jar.jar!/" />
+    </SOURCES>
+  </library>
+</component>

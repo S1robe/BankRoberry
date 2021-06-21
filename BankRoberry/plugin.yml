@@ -1,0 +1,10 @@
+name: BankRobbery
+main: net.gtacraft.bankrobbery.Main
+version: 1.0
+author: gtacraft.com
+depends: [Citizens, HolographicDisplays, WorldEdit]
+
+commands:
+  robnpc:
+    description: Root command for BankRobbery.
+  rob:

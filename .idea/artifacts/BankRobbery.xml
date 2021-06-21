@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BankRobbery">
+    <output-path>$PROJECT_DIR$/out/artifacts/BankRobbery</output-path>
+    <root id="archive" name="BankRobbery.jar">
+      <element id="module-output" name="BankRoberry" />
+      <element id="file-copy" path="$PROJECT_DIR$/BankRoberry/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/BankRoberry/plugin.yml" />
+    </root>
+  </artifact>
+</component>

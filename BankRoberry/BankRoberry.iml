@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="spaceRealms.jar" level="project" />
+    <orderEntry type="library" name="Vault (1)" level="project" />
+    <orderEntry type="library" name="worldguard-6.2" level="project" />
+    <orderEntry type="library" name="worldedit-bukkit-6.1.5 (1)" level="project" />
+    <orderEntry type="library" name="Citizens1" level="project" />
+    <orderEntry type="library" name="HolographicDisplays" level="project" />
+    <orderEntry type="library" name="GTACore" level="project" />
+    <orderEntry type="library" name="GTAAchievementCube" level="project" />
+    <orderEntry type="library" name="CombatTagPlus (1)" level="project" />
+    <orderEntry type="library" name="GTAGangs-1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="ActionBarAPI-1.5.4" level="project" />
+    <orderEntry type="library" name="GTAChallenges" level="project" />
+  </component>
+</module>

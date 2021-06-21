@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Vault (1)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Test Server/plugins/Vault (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Test Server/plugins/worldguard-6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Test Server/plugins/worldedit-bukkit-6.1.5 (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

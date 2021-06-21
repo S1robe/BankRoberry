@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Citizens1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gtamc/plugins/Citizens.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

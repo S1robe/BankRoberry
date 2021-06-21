@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GTACore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GTACore with CMI Support/out/artifacts/GTACore/GTACore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

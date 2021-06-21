@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/CitizensCMD.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/Citizens.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/WorldBorder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/worldedit-bukkit-6.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/worldguard-6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/WorldGuardExtraFlags.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../GTAMC Backup Before Reset/plugins/HolographicDisplays.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Jars" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Jars" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
